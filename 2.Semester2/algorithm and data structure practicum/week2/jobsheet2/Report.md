@@ -3,7 +3,7 @@
 | NIM        | 244107020223                                 |
 | Nama       | Andhika Daffa Athaaillah                     |
 | Kelas      | TI - 1I                                      |
-| Repository | [link] (https://githu) |
+| Repository | [link] ([https://githu](https://github.com/Anadera18/CollageStudy/blob/main/2.Semester2/algorithm%20and%20data%20structure%20practicum/week2/jobsheet2/Report.md)) |
 
 # Practical Session
 
